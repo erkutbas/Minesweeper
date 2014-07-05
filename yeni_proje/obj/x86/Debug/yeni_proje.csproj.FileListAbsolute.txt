@@ -1,0 +1,47 @@
+c:\users\kjmhbvcuser\documents\visual studio 2010\Projects\yeni_proje\yeni_proje\bin\Debug\yeni_proje.exe
+c:\users\kjmhbvcuser\documents\visual studio 2010\Projects\yeni_proje\yeni_proje\bin\Debug\yeni_proje.pdb
+c:\users\kjmhbvcuser\documents\visual studio 2010\Projects\yeni_proje\yeni_proje\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kjmhbvcuser\documents\visual studio 2010\Projects\yeni_proje\yeni_proje\obj\x86\Debug\yeni_proje.Form1.resources
+c:\users\kjmhbvcuser\documents\visual studio 2010\Projects\yeni_proje\yeni_proje\obj\x86\Debug\yeni_proje.Properties.Resources.resources
+c:\users\kjmhbvcuser\documents\visual studio 2010\Projects\yeni_proje\yeni_proje\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kjmhbvcuser\documents\visual studio 2010\Projects\yeni_proje\yeni_proje\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kjmhbvcuser\documents\visual studio 2010\Projects\yeni_proje\yeni_proje\obj\x86\Debug\yeni_proje.exe
+c:\users\kjmhbvcuser\documents\visual studio 2010\Projects\yeni_proje\yeni_proje\obj\x86\Debug\yeni_proje.pdb
+F:\yeni_proje\yeni_proje\obj\x86\Debug\yeni_proje.exe
+F:\yeni_proje\yeni_proje\obj\x86\Debug\yeni_proje.pdb
+E:\yeni_proje\yeni_proje\obj\x86\Debug\yeni_proje.exe
+E:\yeni_proje\yeni_proje\obj\x86\Debug\yeni_proje.pdb
+E:\yeni_proje\yeni_proje\bin\Debug\yeni_proje.exe
+E:\yeni_proje\yeni_proje\bin\Debug\yeni_proje.pdb
+E:\yeni_proje\yeni_proje\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\yeni_proje\yeni_proje\obj\x86\Debug\yeni_proje.Form1.resources
+E:\yeni_proje\yeni_proje\obj\x86\Debug\yeni_proje.Properties.Resources.resources
+E:\yeni_proje\yeni_proje\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\yeni_proje\yeni_proje\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\yeni_proje\yeni_proje\bin\Debug\yeni_proje.exe
+F:\yeni_proje\yeni_proje\obj\x86\Debug\yeni_proje.Form1.resources
+F:\yeni_proje\yeni_proje\obj\x86\Debug\yeni_proje.Properties.Resources.resources
+F:\yeni_proje\yeni_proje\bin\Debug\yeni_proje.pdb
+G:\yeni_proje\yeni_proje\obj\x86\Debug\yeni_proje.exe
+G:\yeni_proje\yeni_proje\obj\x86\Debug\yeni_proje.pdb
+G:\yeni_proje\yeni_proje\bin\Debug\yeni_proje.exe
+G:\yeni_proje\yeni_proje\bin\Debug\yeni_proje.pdb
+G:\yeni_proje\yeni_proje\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\yeni_proje\yeni_proje\obj\x86\Debug\yeni_proje.Form1.resources
+G:\yeni_proje\yeni_proje\obj\x86\Debug\yeni_proje.Properties.Resources.resources
+G:\yeni_proje\yeni_proje\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\yeni_proje\yeni_proje\obj\x86\Debug\GenerateResource.write.1.tlog
+oje\yeni_proje\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\yeni_proje\yeni_proje\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\yeni_proje\yeni_proje\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\yeni_proje\yeni_proje\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\erkut\Desktop\mayın tarlası\yeni_proje\obj\x86\Debug\yeni_proje.exe
+C:\Users\erkut\Desktop\mayın tarlası\yeni_proje\obj\x86\Debug\yeni_proje.pdb
+F:\MAVI_HARD_DISK\Coming From Windows 7\mayın tarlası\yeni_proje\obj\x86\Debug\yeni_proje.exe
+F:\MAVI_HARD_DISK\Coming From Windows 7\mayın tarlası\yeni_proje\obj\x86\Debug\yeni_proje.pdb
+F:\MAVI_HARD_DISK\Coming From Windows 7\mayın tarlası\yeni_proje\bin\Debug\yeni_proje.exe
+F:\MAVI_HARD_DISK\Coming From Windows 7\mayın tarlası\yeni_proje\bin\Debug\yeni_proje.pdb
+F:\MAVI_HARD_DISK\Coming From Windows 7\mayın tarlası\yeni_proje\obj\x86\Debug\yeni_proje.csprojResolveAssemblyReference.cache
+F:\MAVI_HARD_DISK\Coming From Windows 7\mayın tarlası\yeni_proje\obj\x86\Debug\yeni_proje.Form1.resources
+F:\MAVI_HARD_DISK\Coming From Windows 7\mayın tarlası\yeni_proje\obj\x86\Debug\yeni_proje.Properties.Resources.resources
+F:\MAVI_HARD_DISK\Coming From Windows 7\mayın tarlası\yeni_proje\obj\x86\Debug\yeni_proje.csproj.GenerateResource.Cache
